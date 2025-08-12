@@ -64,7 +64,7 @@
 #define X_MIN_POS 0
 #define Y_MAX_POS 212.5
 #define Y_MIN_POS -4 //orig -4
-#define Z_MAX_POS 210
+#define Z_MAX_POS 317
 #define Z_MIN_POS 0.15
 
 // Z height correction value
